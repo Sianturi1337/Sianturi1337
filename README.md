@@ -27,7 +27,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [MaeWS LE/AMP Automated Installer](https://labs.tintonarya.com/maews-le-amp-automated-installer/)  
+- 🔭 I’m currently working on [AlkitabKita - Free Online Bible Read](https://alkitabkita.me/)  
   
 
 - 🌱 I’m currently learning Python and Docker  
